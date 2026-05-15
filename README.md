@@ -1,16 +1,20 @@
-## Hi there 👋
+# Amrutha Varshini
 
-<!--
-**AmruthaVarshini111/AmruthaVarshini111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Computer Science and Engineering student at Vellore Institute of Technology 
+Interested in Machine Learning, Computer Vision, and Image Forensics.
 
-Here are some ideas to get you started:
+Incoming ML Research Intern at IIT Madras MALT Lab.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on:
+- Digital Image Forgery Detection
+- Deep Learning for Computer Vision
+- Explainable AI
+
+## Tech Stack
+Python • C • Java • NumPy • OpenCV • Git
+
+## Current Goals
+- Build strong ML projects
+- Learn research engineering workflows
+- Strengthen deep learning fundamentals
+- Explore image forensics and explainable AI
